@@ -1,1 +1,1 @@
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoZab&theme=monokai&nclude_all_commits=false&count_private=false&layout=donut&hide_border=true&bg_color=00000000"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoZab&theme=dark&nclude_all_commits=false&count_private=false&layout=donut&hide_border=true&bg_color=00000000"/>
